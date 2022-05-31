@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933996878547",
+    "firebase_url": "https://hi-app-33eb9.firebaseio.com",
+    "project_id": "hi-app-33eb9",
+    "storage_bucket": "hi-app-33eb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933996878547:android:c807705d7b77c0251f9226",
+        "android_client_info": {
+          "package_name": "com.app.hiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933996878547-jg620imdu817m7d9a01kufpdlr1otvaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.hiapp",
+            "certificate_hash": "1aa5ce81e4c160350095368e3fdd253ffc15575a"
+          }
+        },
+        {
+          "client_id": "933996878547-b5ms7sedrs5f0l5o3l4qr8de4hcubjvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlYV9Rn78A6HzZ6YhXdSVBkak2MaNdx5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933996878547-b5ms7sedrs5f0l5o3l4qr8de4hcubjvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
